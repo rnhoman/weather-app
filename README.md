@@ -1,14 +1,6 @@
-# Create React App
+# Weather App
 
-In this example we will be deploying a simple "Hello World" example with Create React App.
-
-### Getting started with Create React App
-
-- Start a new Create React App project:
-
-```
-npx create-react-app <project name>
-```
+Membuat Weather App menggunakan React dan deploy menggunakan Now (zeit.co).
 
 ### Deploy with Now
 
